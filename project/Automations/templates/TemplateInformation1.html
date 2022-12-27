@@ -1,0 +1,36 @@
+
+{% extends 'base.html' %}
+
+{% block content %}
+
+
+<form action="TemplateDuplication1" method = 'post'>
+
+    <b><h3> Enter the required Template Information to duplicate template from One Legal to Another Legal</h3> </b><br>
+
+    {% csrf_token %}
+
+   1. Enter the Parent Catalog template reference        :   <input type="text" name = 'Reference'><br>
+   <br>
+
+ 
+   2. Enter the New Reference for Duplicating template in child Catalog :    <input type="text" name = 'NewReference'><br>
+
+   <br>
+
+
+
+
+    <b><input type = "submit"></b>
+
+    <br>
+
+</form>
+
+
+<h4>Result :{{ res }}</h4>
+
+
+{%endblock %}
+
+

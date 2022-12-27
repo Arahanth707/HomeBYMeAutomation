@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+
+<form action="TemplateDuplication" method = 'post'>
+
+    <b><h3> Enter the required Template Information to duplicate template from One Legal to Another Legal</h3> </b><br>
+
+    {% csrf_token %}
+
+   1. Enter the API Token for Parent Catalog     :    <input type="text" name = 'Token'><br>
+
+
+   <br>
+
+   2. Enter the Master List IDs of Parent Catalog :   <input type="text" name = 'ParentIDs'><br>
+
+   <br>
+
+   3. Enter the Master List IDs of Child Catalog :     <input type="text" name = 'ChildIDs'><br>
+
+   <br>
+
+
+   4. Enter the Brand ID for Duplicating template in child Catalog :   <input type="text" name = 'brandID'><br>
+
+   <br>
+
+   5. Enter the API Token for Child Catalog :         <input type="text" name = 'PushingToken'><br>
+
+   <br>
+
+
+
+    <b><input type = "submit"></b>
+
+    <br>
+
+</form>
+
+
+<h4>Result :{{ res }}</h4>
+
+
+{%endblock %}
+
+
