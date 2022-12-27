@@ -1,0 +1,40 @@
+{
+    "reference": "NOBILIA_27_M1LBIFHO",
+    "technicalComment": null,
+    "brandID": "36",
+    "commercialInfos": [
+        {
+            "languageID": 1,
+            "name": "NOBILIA-EXPO2IFL",
+            "description": "NOBILIA-EXPO2IFL",
+            "shortDescription": "NOBILIA-EXPO2IFL",
+            "sheetUrl": null
+        }
+    ],
+    "url": "https://byme-enterprise-prod-stgg.s3.eu-west-1.amazonaws.com/data/templates/63BA346B-18A7-4F6A-BDEE-E231E34D7DC5/template.BMTPROJ",
+    "freeTag": [
+        "L",
+        "integratedFridge",
+        "integratedOven"
+    ],
+    "mapProductsIDs": {
+        "PINO_2020_G17803K": "NOBILIA-2022_GD178-3",
+        "PINO_2020_GMB03": "NOBILIA-2022_GLO-3",
+        "PINO_2020_UKS2A90": "NOBILIA-2022_UA90",
+        "PINO_2021_Hood_EU_Wall_Hood_25": "NOBILIA-2022_Hood_EU_Wall_Hood_19",
+        "PINO_2020_H3003": "NOBILIA-2022_W30-3",
+        "PINO_2020_HE6003": "NOBILIA-2022_WE60-3",
+        "PINO_2020_UE90KP": "NOBILIA-2022_UEDK90-X",
+        "PINO_2020_UKS2A100": "NOBILIA-2022_UA100",
+        "PINO_2020_TGV60": "NOBILIA-2022_U60",
+        "PINO_2020_SP60": "NOBILIA-2022_SPUD60",
+        "PINO_2020_H6003": "NOBILIA-2022_W60-3",
+        "PINO_2020_HG9003": "NOBILIA-2022_W90-3",
+        "PINO_2020_SP80": "NOBILIA-2022_SPUD80",
+        "PINO_2020_SP90": "NOBILIA-2022_SPUD90",
+        "PINO_2020_SP100": "NOBILIA-2022_SPUD100",
+        "PINO_2020_H8003": "NOBILIA-2022_W80-3",
+        "PINO_2020_H9003": "NOBILIA-2022_W90-3",
+        "PINO_2020_H10003": "NOBILIA-2022_W100-3"
+    }
+}

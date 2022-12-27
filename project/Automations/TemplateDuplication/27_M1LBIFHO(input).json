@@ -1,0 +1,82 @@
+{
+    "id": 827,
+    "reference": "27_M1LBIFHO",
+    "uuid": "63BA346B-18A7-4F6A-BDEE-E231E34D7DC5",
+    "technicalComment": null,
+    "availability": true,
+    "productsList": [
+        "PINO_2020_G17803K",
+        "PINO_2020_GMB03",
+        "PINO_2020_UKS2A90",
+        "PINO_2021_Hood_EU_Wall_Hood_25",
+        "PINO_2020_H3003",
+        "PINO_2020_HE6003",
+        "PINO_2020_UE90KP",
+        "PINO_2020_UKS2A100",
+        "PINO_2020_TGV60",
+        "PINO_2020_SP60",
+        "PINO_2020_H6003",
+        "PINO_2020_HG9003",
+        "PINO_2020_SP80",
+        "PINO_2020_SP90",
+        "PINO_2020_SP100",
+        "PINO_2020_H8003",
+        "PINO_2020_H9003",
+        "PINO_2020_H10003"
+    ],
+    "productIDs": [
+        "PINO_2020_G17803K",
+        "PINO_2020_GMB03",
+        "PINO_2020_UKS2A90",
+        "PINO_2021_Hood_EU_Wall_Hood_25",
+        "PINO_2020_H3003",
+        "PINO_2020_HE6003",
+        "PINO_2020_UE90KP",
+        "PINO_2020_UKS2A100",
+        "PINO_2020_TGV60",
+        "PINO_2020_SP60",
+        "PINO_2020_H6003",
+        "PINO_2020_HG9003",
+        "PINO_2020_SP80",
+        "PINO_2020_SP90",
+        "PINO_2020_SP100",
+        "PINO_2020_H8003",
+        "PINO_2020_H9003",
+        "PINO_2020_H10003"
+    ],
+    "brandID": "Casino",
+    "userID": 2504,
+    "behavior": null,
+    "dateCreation": "2021-05-07T10:29:39.000Z",
+    "dateUpdate": "2022-07-04T05:30:16.000Z",
+    "templateClosedTag": [],
+    "isDeleted": false,
+    "freeTags": [
+        "L",
+        "integratedFridge",
+        "integratedOven"
+    ],
+    "catalogs": [
+        {
+            "id": 45,
+            "name": "Templates Casino 2020",
+            "date_update": "2021-08-20T12:21:03.961Z",
+            "date_creation": "2020-08-28T09:48:07.858Z",
+            "is_deleted": false,
+            "id_country": 75,
+            "date_start": "2020-08-01T00:00:00.000Z",
+            "date_end": "2050-01-01T00:00:00.000Z",
+            "id_legal_entity": 14,
+            "external_id": "45",
+            "catalog_has_template": {
+                "catalog_template_id_cata": 45,
+                "template_id_template": 827
+            }
+        }
+    ],
+    "hasTemplateFile": true,
+    "name": "EXPO2IFL",
+    "description": "EXPO2IFL",
+    "shortDescription": "EXPO2IFL",
+    "sheetUrl": "null"
+}
